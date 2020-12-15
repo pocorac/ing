@@ -1,0 +1,16 @@
+[
+  {
+    "transaction": {
+      "type": "WITHDRAW",
+      "amount": "20",
+      "transactionDate": "2020-12-14T20:04:10.79+02:00"
+    }
+  },
+  {
+    "transaction": {
+      "type": "DEPOSIT",
+      "amount": "50",
+      "transactionDate": "2020-12-14T22:10:12.79+02:00"
+    }
+  }
+]
